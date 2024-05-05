@@ -109,4 +109,23 @@ Cluster 3 (21% of customers) - "Best Customers"
     RFM Profile: R=1, F=1, M=1
     Interpretation: These are the "Best Customers" we saw earlier. They purchase recently (R=1), are frequent buyers (F=1), and spent the most (M=1).
 
+For "Best Customers" segment:
+
+    Recommendation: Focus on increasing customer purchases, so it is necessary to form a cross/up-selling strategy.
+    Explanation: These customers are already the best in terms of recency, frequency, and monetary value. To maximize their value, focus on offering complementary or upgraded products/services to encourage additional purchases.
+
+For "Loyal Customers" segment:
+
+    Recommendation: Optimize budget and time campaigns to maintain loyalty and increase value.
+    Explanation: Loyal customers are valuable assets. To keep them engaged and loyal, tailor marketing campaigns specifically for them. Offer exclusive deals, loyalty rewards, and personalized recommendations based on their past purchases.
+
+For "Almost Lost" segment:
+
+    Recommendation: Focus on activating customers and encouraging repurchases with a reactivation and retention strategy.
+    Explanation: Customers in this segment are at risk of churning. To prevent loss, use reactivation strategies such as targeted promotions, reminders of past purchases, and personalized offers to encourage them to come back and make additional purchases.
+
+For "Lost Cheap Customers" segment:
+
+    Recommendation: Focus on reactivating customers with a reactivation strategy.
+    Explanation: These customers have already churned, so the main goal is to bring them back. Use reactivation campaigns with attractive offers, incentives, and reminders of the benefits of your products/services to encourage them to return.
 
